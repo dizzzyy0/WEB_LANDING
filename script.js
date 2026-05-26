@@ -510,7 +510,6 @@ function initCabinet() {
 
   const openCabinetFlow = async () => {
     // TODO: Replace stub with real auth flow
-    showToast('🔑 Відкриваємо кабінет… (заглушка)');
     console.info('[UI] Cabinet flow triggered — stub');
     // Future: open auth modal, redirect, or fetch user data:
     // const { token, user } = await apiLogin(email, password);
